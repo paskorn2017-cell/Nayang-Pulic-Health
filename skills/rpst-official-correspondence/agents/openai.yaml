@@ -1,0 +1,7 @@
+interface:
+  display_name: "งานสารบรรณ รพ.สต."
+  short_description: "Draft official รพ.สต. letters"
+  default_prompt: "Use $rpst-official-correspondence to draft a Thai official letter for a รพ.สต.; include letter type, recipient, subject, facts, requested action, signer, and deadline."
+
+policy:
+  allow_implicit_invocation: true
